@@ -1,4 +1,4 @@
-
+package mcmaster.compsci;
 
 public class Task {
     private static int idCounter = 0;

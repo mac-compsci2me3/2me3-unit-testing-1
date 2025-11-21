@@ -1,4 +1,4 @@
-
+package mcmaster.compsci;
 
 import java.util.ArrayList;
 import java.util.List;
